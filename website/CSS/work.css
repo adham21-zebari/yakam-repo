@@ -1,0 +1,70 @@
+body{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+nav{
+	background-color: goldenrod;
+	height: 40px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#nvesin{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+}
+.link{
+	text-decoration: none;
+	font-size: 35px;
+	color: snow;
+	font-family: Ubuntu;
+	margin: 30px;
+}
+.link:hover{
+	font-weight: bolder;
+}
+.karkrin{
+	margin-top: 30px;
+	border: 5px solid goldenrod;
+	width: 30%;
+	height: 70%;
+	color: snow;
+	align-items: center;
+	font-size: 30px;
+	padding: 20px;
+	margin-left: 20px;
+	border-radius: 50px;
+}
+#shopping{
+	width: 70%;
+	background-color: snow;
+	font-size: 35px;
+	font-family: Ubuntu;
+	border-radius: 65px;
+	padding: 20px;
+	margin-top: 15px;
+	margin-left: 5%;
+	padding-left: 50px;
+}
+footer{
+	background-color: goldenrod;
+	height: 40px;
+	text-align: center;
+	margin-top: 70px;
+	color: snow;
+	font-size: 35px;
+
+}
+
+
+
+
+
+
+
+

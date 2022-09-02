@@ -1,0 +1,78 @@
+body{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+nav{
+	background-color: goldenrod;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+#nvesin{
+	justify-content: center;
+	align-items: center;
+}
+.link{
+	text-decoration: none;
+	font-size: 35px;
+	color: snow;
+	font-family: Ubuntu;;
+	margin: 30px;
+}
+.link:hover{
+	font-weight: bolder;
+}
+.karkrin{
+	margin-top: 30px;
+	border: 5px solid goldenrod;
+	width: 30%;
+	height: 70%;
+	color: snow;
+	align-items: center;
+	font-size: 30px;
+	padding: 40px;
+	margin-left: 20px;
+	border-radius: 50px;
+    margin-left: 35%;
+}
+img{
+	margin-top: 20px;
+	margin-left: 20%;
+	width: 60%;
+	height: 60%;
+}
+footer{
+    background-color: goldenrod;
+	height: 125px;
+	text-align: center;
+	margin-top: 70px;
+	color: snow;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+a:hover{
+    font-weight: bolder;
+    color: snow;
+}
+a:active{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
